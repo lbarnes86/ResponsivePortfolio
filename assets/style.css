@@ -32,7 +32,9 @@ img {
   footer {
 
       background-color: rgb(231, 231, 231);
-      list-style: none;
+      
+      padding-bottom: 2px;
+      
   }
 
  #contact-info a
