@@ -14,12 +14,14 @@ nav {
     font-style: oblique
    
 }
-
-
+.card {
+    margin-bottom: 10px;
+}
 .card-body {
     font-size: large;
     color: rgb(69, 149, 175);
     font-weight: bolder;
+    
 }
 
 img {
@@ -27,6 +29,16 @@ img {
     height: 200px
   }
 
- .contact-info {
+  footer {
+
+      background-color: rgb(231, 231, 231);
+      list-style: none;
+  }
+
+ #contact-info a
+  {
     
- }
+    color: rgb(69, 149, 175);
+      font-weight: bold;
+      
+  }
