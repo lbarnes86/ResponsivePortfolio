@@ -1,0 +1,15 @@
+nav {
+    background-color: rgb(69, 149, 175);
+    margin-bottom: 10px;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+}
+
+.nav-item {
+    color: rgb(238, 234, 234);
+    font-weight: bolder;
+    font-style: oblique
+   
+}
