@@ -32,8 +32,8 @@ img {
   footer {
 
       background-color: rgb(231, 231, 231);
-      
-      padding-bottom: 2px;
+    
+    
       
   }
 
@@ -43,4 +43,14 @@ img {
     color: rgb(69, 149, 175);
       font-weight: bold;
       
+  }
+
+  .btn  {
+    background-color: rgb(69, 149, 175);
+    border: none;
+  }
+
+  a{
+      color: rgb(69, 149, 175);
+      font-style: none;
   }
