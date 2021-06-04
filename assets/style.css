@@ -55,19 +55,8 @@ img {
       font-style: none;
   }
 
-  .table {
-	display: table;   /* Allow the centering to work */
-	margin: 0 auto;
-}
-  ul#contact-info {
-	min-width: 696px;
-	list-style: none;
-	padding-top: 20px;
-	}
-    ul#contact-info li {
-		display: inline;
-        margin: 2px
-        
-
-        
-	}
+ footer {
+  font-weight: bolder;
+    font-style: oblique
+    
+ }
