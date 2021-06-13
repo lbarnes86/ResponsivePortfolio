@@ -4,8 +4,8 @@
 
 </div>
 
-- Live Demo: [Live Demo](https://lbarnes86.github.io/ResponsivePortfolio/)
-- Repository: [Repository](https://github.com/lbarnes86/ResponsivePortfolio)
+- [Live Demo](https://lbarnes86.github.io/ResponsivePortfolio/)
+- [Repository](https://github.com/lbarnes86/ResponsivePortfolio)
 
 ## Table of Contents
 
