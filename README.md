@@ -24,7 +24,7 @@
 
 ```
 This application was created so that a user can access 
-with ease from a mobile device or desktop.
+from a mobile device or desktop with ease.
 
 ```
 
